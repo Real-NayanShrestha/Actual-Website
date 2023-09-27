@@ -18,14 +18,14 @@
 </tr>
 <tr> 
   <td> <img src = "royalblue.jpg" alt ="Royal Blue" width = 100 height = 100> </td>
-  <td> <p> #002366 </p> </td>
+  <td>  #002366  </td>
   <td> Royal Blue </td>
   
 
 </tr>
 <tr>
   <td> <img src = "turquoise.jpg" alt = "Turquoise" width = 100 height = 100> </td>
-  <td> <p> #40E0D0 </p> </td>
+  <td> #40E0D0  </td>
   <td> Turquoise </td>
 </tr>
 
