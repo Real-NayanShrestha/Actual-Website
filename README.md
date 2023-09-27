@@ -31,9 +31,9 @@
   <td> Powder Blue </td>
 </tr>
   <tr>
-  <td> </td>
-  <td> </td>
-  <td> </td>
+  <td> <img src = "yaleblue.jpg" alt = "Yale Blue" width = 50 height = 50> </td>
+  <td> #00356B </td>
+  <td> Yale Blue </td>
 </tr>
 </table>
 </body>
