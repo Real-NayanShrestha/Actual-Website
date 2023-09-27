@@ -5,6 +5,8 @@
 </head>
 
 <body>
+  <h3> Context </h3>
+  <p> We should all know about the color blue but in case you dont its a primary RGB color that makes up the color of standard clear sky and a clean ocean. </p>
 <h3> The Variety </h3>
 <p> We all know that when we say blue we are talking about the color but which one are we actually talking about. There is so many different variations of the same color that look so different yet are stil considered blue. You might say that other colors have different shades as well and that true. However, this problem is much more prominent with the color blue simply look at the table below for the vast differences.  </p>
 
