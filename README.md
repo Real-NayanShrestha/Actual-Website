@@ -25,7 +25,16 @@
   <td> #40E0D0  </td>
   <td> Turquoise </td>
 </tr>
-
+<tr>
+  <td> <img src = "powderblue.jpg" alt = "Powder Blue" width 50 height = 50> </td>
+  <td> #B0E0E6 </td>
+  <td> Powder Blue </td>
+</tr>
+  <tr>
+  <td> </td>
+  <td> </td>
+  <td> </td>
+</tr>
 </table>
 </body>
 </HTML>
