@@ -9,10 +9,11 @@
 
 <table> 
 <table border = "1">
-<th><marquee> Colors that are blue but not really blue </marquee></th>
+<h1><marquee> Colors that are blue but not really blue </marquee></h1>
 
 <tr> </tr>
-<td> <img src = "royalblue.jpg" alt ="Royal Blue" </td>
+<td> <img src = "royalblue.jpg" alt ="Royal Blue"></td>
+<td> <img src = "turquoise.jpg" alt = "Turquoise"> </td>
 </table>
 </body>
 
