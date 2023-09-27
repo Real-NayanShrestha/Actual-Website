@@ -10,22 +10,15 @@
 
 <table> 
 <table border = "1">
-<h1><marquee> Colors that are blue but not really blue (insane moving text 😱😱😱) </marquee></h1>
+<h2><marquee> Colors that are blue but not really blue (insane moving text 😱😱😱) </marquee></h1>
 
-<tr> </tr>
 <img class = "colors">
-<td> <img class = "colors" src = "royalblue.jpg" alt ="Royal Blue"></td>
-<td> <img class = "colors" src = "turquoise.jpg" alt = "Turquoise"> </td>
-
-.colors{
-width: 100px;
-height: 100px;
-align-items: center;
-
-}
+<td> <img src = "royalblue.jpg" alt ="Royal Blue" width = 100 height = 100> </td>
+<td> <img src = "turquoise.jpg" alt = "Turquoise" width = 100 height = 100> </td>
 
 
 </table>
+
 </body>
 
 </HTML>
