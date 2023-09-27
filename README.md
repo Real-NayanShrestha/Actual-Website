@@ -12,7 +12,7 @@
 <table border = "1">
 <h2><marquee> Colors that are blue but not really blue (insane moving text 😱😱😱) </marquee></h1>
 
-<img class = "colors">
+
 <td> <img src = "royalblue.jpg" alt ="Royal Blue" width = 100 height = 100> </td>
 <td> <img src = "turquoise.jpg" alt = "Turquoise" width = 100 height = 100> </td>
 
