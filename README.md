@@ -12,7 +12,7 @@
 <th><marquee> Colors that are blue but not really blue </marquee></th>
 
 <tr> </tr>
-<td> <img src = "royalblue.jpeg" alt ="Royal Blue" </td>
+<td> <img src = "royalblue.jpg" alt ="Royal Blue" </td>
 </table>
 </body>
 
