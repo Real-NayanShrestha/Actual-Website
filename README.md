@@ -1,5 +1,5 @@
 <HTML>
-<link rel = "stylesheet" href"style.css">
+
 <head>
 <h1> The Problems With the Color Blue </h1>
 </head>
@@ -27,8 +27,6 @@
 </tr>
 
 </table>
-
 </body>
-
 </HTML>
 
