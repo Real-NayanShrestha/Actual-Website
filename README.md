@@ -1,4 +1,5 @@
 <HTML>
+<link rel = "stylesheet" href"style.css">
 <head>
 <h1> The Problems With the Color Blue </h1>
 </head>
@@ -9,11 +10,21 @@
 
 <table> 
 <table border = "1">
-<h1><marquee> Colors that are blue but not really blue </marquee></h1>
+<h1><marquee> Colors that are blue but not really blue (insane moving text 😱😱😱) </marquee></h1>
 
 <tr> </tr>
-<td> <img src = "royalblue.jpg" alt ="Royal Blue"></td>
-<td> <img src = "turquoise.jpg" alt = "Turquoise"> </td>
+<img class = "colors">
+<td> <img class = "colors" src = "royalblue.jpg" alt ="Royal Blue"></td>
+<td> <img class = "colors" src = "turquoise.jpg" alt = "Turquoise"> </td>
+
+.colors{
+width: 100px;
+height: 100px;
+align-items: center;
+
+}
+
+
 </table>
 </body>
 
