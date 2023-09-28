@@ -44,7 +44,8 @@
 </body>
 <footer>
   <p> Created by <b> Nayan Shrestha </b> </p>
-  <p> Made through <b> Github </b> <a href = "https://github.com/Real-NayanShrestha/Actual-Website"> See via Github </p>
+  <p> Made through <b> Github </b>  </p>
+  <p> <a href = "https://github.com/Real-NayanShrestha/Actual-Website"> See via Github </a> </p>
 </footer>
 </HTML>
 
