@@ -10,8 +10,8 @@
 
   <h3> Overused </h3>
   <p> According to <a href = "https://www.websiteplanet.com/blog/logo-design-stats/"> Web Site Planet </a> about 40% of the Fortune 500 companies use blue as their primary color. Not to mention that a vast majority of people consider blue to be their favorite color as well which means they will most likely use it more. This crazy usage of the color blue makes it then less appealing as it just becomes common place. </p>
-<h3> The Variety </h3>
-<p> We all know that when we say blue we are talking about the color but which one are we actually talking about. There is so many different variations of the same color that look so different yet are stil considered blue. You might say that other colors have different shades as well and that true. However, this problem is much more prominent with the color blue simply look at the table below for the vast differences.  </p>
+<h3> The Strange Variety </h3>
+<p> We all know that when we say blue we are talking about the color but which one are we actually talking about. There is so many different variations of the same color that look so different yet are stil considered blue. Which causes blue to really lose its entire meaning if there are vastly different colors we could potentially be referring to. You might say that other colors have different shades as well and that true. However, this problem is much more prominent with the color blue simply look at the table below for the vast differences.  </p>
 
 <table> 
 <h2><marquee> Colors that are blue but not really blue (insane moving text 😱😱😱) </marquee></h2>
