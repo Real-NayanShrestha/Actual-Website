@@ -1,7 +1,7 @@
 <HTML>
 
 <head>
-<h1> The Problems With the Color Blue </h1>
+<h1> The Problems With the Color Blue (opinion piece not purely factual) </h1>
 </head>
 
 <body>
