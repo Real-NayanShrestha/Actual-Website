@@ -42,5 +42,9 @@
 </tr>
 </table>
 </body>
+<footer>
+  <p> Created by Nayan Shrestha </p>
+  <p> Made through github <a href = "https://github.com/Real-NayanShrestha/Actual-Website"> Repo on Github </p>
+</footer>
 </HTML>
 
